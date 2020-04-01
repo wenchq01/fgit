@@ -1,0 +1,2 @@
+# fgit
+my first repository
